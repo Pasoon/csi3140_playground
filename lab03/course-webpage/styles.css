@@ -9,4 +9,18 @@ body {
     letter-spacing: 1px;
   }
 
+  .table-evaluation {
+    width: 1200px;
+    border-collapse: collapse;
+  }
+  
+  .table-evaluation tr th {
+    background-color: #2ECC71;
+  }
+  
+  .table-evaluation tr th, .table-evaluation tr td {
+    border-top: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
   
