@@ -1,0 +1,62 @@
+body {
+    margin: 50px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    letter-spacing: -1px;
+    line-height: 1;
+    color: #222222;
+    background-color: #F8F8F8;
+    letter-spacing: 1px;
+  }
+
+  h1,h2,h3,h4,h5,h6,p {
+    text-align: center;
+    margin: 50px;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  div {
+    width: 100%;
+  }
+
+  img {
+    height: auto;
+    width: 200px;
+    margin: 10px;
+  }
+
+  .main{
+    background-image: url("./images/space.jpeg");
+    height: auto;
+    width: 100%;
+  }
+
+  .contact{
+    border: 1px solid black
+  }
+
+  .education{
+    border: 1px solid black
+  }
+
+  .experience{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .images{
+    display: flex;
+    justify-content: center;
+  }
+
+
+  
